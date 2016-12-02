@@ -1,6 +1,4 @@
-# P4y - Traitement d'images
-Bienvenue dans le module de traitement d'images !
-
+# LO41
 Vous trouverez dans ce dépôt les ressources nécessaires pour la réalisation des TP.
 
 ## Tuto Git
